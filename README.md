@@ -4,6 +4,12 @@ A complete data analytics project built on **Databricks** using Delta Live Table
 
 ---
 
+## Author
+**Mahmoud Najmeh**  
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;">
+
+------------------------------------------------------------------------
+
 ## 📊 Project Overview
 
 This project demonstrates a complete production-grade analytics workflow on Databricks Free Edition:
