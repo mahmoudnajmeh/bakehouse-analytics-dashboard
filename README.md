@@ -138,7 +138,7 @@ Gold Product Sales <img width="1857" height="1042" alt="Image" src="https://gith
 
 **`gold_city_performance`** - City performance metrics:
 
-Gold City Performance] <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4b7e7306-3c31-40f2-901f-6962b87e5259" />
+Gold City Performance <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4b7e7306-3c31-40f2-901f-6962b87e5259" />
 
 **`silver_reviews`** - Reviews with sentiment labels:
 
