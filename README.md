@@ -124,11 +124,17 @@ The pipeline implements:
 ### Dashboard
 The final AI/BI dashboard with three visualizations:
 
-Best Selling Products Bar Chart <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4ded9515-f000-4d7e-841a-02cd755ceed0" />
+Best Selling Products Bar Chart 
 
-Store Performance Table <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1fee0a72-7436-4771-8afd-ce45f72859de" />
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4ded9515-f000-4d7e-841a-02cd755ceed0" />
 
-Customer Sentiment Pie Chart <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/bf0e392a-43be-46bb-b690-219eff3f6af3" />
+Store Performance Table 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1fee0a72-7436-4771-8afd-ce45f72859de" />
+
+Customer Sentiment Pie Chart 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/bf0e392a-43be-46bb-b690-219eff3f6af3" />
 
 ### DLT Pipeline
 The pipeline showing bronze, silver, and gold tables:
