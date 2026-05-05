@@ -127,31 +127,45 @@ The final AI/BI dashboard with three visualizations:
 Best Selling Products Bar Chart 
 
 <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4ded9515-f000-4d7e-841a-02cd755ceed0" />
+---
 
 Store Performance Table 
 
 <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1fee0a72-7436-4771-8afd-ce45f72859de" />
+---
 
 Customer Sentiment Pie Chart 
 
 <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/bf0e392a-43be-46bb-b690-219eff3f6af3" />
+---
 
 ### DLT Pipeline
 The pipeline showing bronze, silver, and gold tables:
 
-Pipeline Graph <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/09784dd5-517a-4ea5-9432-b2e6fe059294" />
+Pipeline Graph 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/09784dd5-517a-4ea5-9432-b2e6fe059294" />
+---
 
 ### Gold Tables
 Query results from the production tables:
 
 **`gold_product_sales`** - Product-level aggregations:
 
-Gold Product Sales <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4c3f9dee-af86-43d5-8f14-b2463c09847d" />
+Gold Product Sales 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4c3f9dee-af86-43d5-8f14-b2463c09847d" />
+---
 
 **`gold_city_performance`** - City performance metrics:
 
-Gold City Performance <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4b7e7306-3c31-40f2-901f-6962b87e5259" />
+Gold City Performance 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/4b7e7306-3c31-40f2-901f-6962b87e5259" />
+---
 
 **`silver_reviews`** - Reviews with sentiment labels:
 
-Silver Reviews <img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/aa3c6c7e-b528-4d70-b9a4-683abd61a443" />
+Silver Reviews 
+
+<img width="1857" height="1042" alt="Image" src="https://github.com/user-attachments/assets/aa3c6c7e-b528-4d70-b9a4-683abd61a443" />
