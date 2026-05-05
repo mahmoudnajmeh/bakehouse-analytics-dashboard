@@ -124,24 +124,20 @@ The pipeline implements:
 ### 1. Dashboard Visualizations
 
 #### Best Selling Products (Bar Chart)
-*Shows product sales ranking. Croissant leads with 58 units sold ($203), followed by Coffee with 47 units ($188), and Baguette with 13 units ($58.50).*
 
 ![Best Selling Products](https://github.com/user-attachments/assets/4ded9515-f000-4d7e-841a-02cd755ceed0)
 
 #### Store Performance by City (Table)
-*Compares revenue across four cities. New York leads with $158.50 from 6 orders, followed by Los Angeles at $144.50 from 5 orders.*
 
 ![Store Performance](https://github.com/user-attachments/assets/1fee0a72-7436-4771-8afd-ce45f72859de)
 
 #### Customer Sentiment (Pie Chart)
-*Sentiment breakdown from 10 customer reviews: 50% Positive, 30% Negative, 20% Neutral.*
 
 ![Customer Sentiment](https://github.com/user-attachments/assets/bf0e392a-43be-46bb-b690-219eff3f6af3)
 
 ---
 
 ### 2. DLT Pipeline Graph
-*The Delta Live Tables pipeline showing Bronze → Silver → Gold tables with data quality expectations.*
 
 ![DLT Pipeline](https://github.com/user-attachments/assets/09784dd5-517a-4ea5-9432-b2e6fe059294)
 
@@ -150,12 +146,10 @@ The pipeline implements:
 ### 3. Gold Tables (Query Results)
 
 #### `gold_product_sales`
-*Product-level aggregations ready for the dashboard.*
 
 ![Gold Product Sales](https://github.com/user-attachments/assets/4c3f9dee-af86-43d5-8f14-b2463c09847d)
 
 #### `gold_city_performance`
-*City performance metrics with order counts and revenue.*
 
 ![Gold City Performance](https://github.com/user-attachments/assets/4b7e7306-3c31-40f2-901f-6962b87e5259)
 
